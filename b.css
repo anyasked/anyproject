@@ -2,6 +2,10 @@
     margin: 0;
 }
 
+::root {
+    colorbasic: #1d1d1d;
+}
+
 html {
     scroll-behavior: smooth;
 }
